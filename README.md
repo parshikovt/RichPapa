@@ -1,7 +1,7 @@
 # Web-development-project
 Project for the web design course in bachelor (Spring 2020)
 
-## How to run project
+## How to run the project
 1. Download [OpenServer](https://ospanel.io/download/) and install
 2. Create next structure: 
 ```bash
