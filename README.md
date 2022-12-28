@@ -17,7 +17,8 @@ Project for the web design course in bachelor (Spring 2020)
 |    ├───userdara
 |    ├───OpenServer.exe
 ```
-3. Run OpenServer.exe
-4. Go to [http://localhost/Project/html/glavnaya.html](http://localhost/Project/html/glavnaya.html)
+3. Put all directories from the <i>database</i> folder to <i>OSPanel/userdata/MySQL-5.6</i>
+4. Run <i>OpenServer.exe</i>
+5. Go to [http://localhost/Project/html/glavnaya.html](http://localhost/Project/html/glavnaya.html)
 
 Enjoy the website! 
